@@ -1,0 +1,11 @@
+C:\Users\MTCStudent\Desktop\C# Stuff\Tutorial8-1\ChapterEight\bin\Debug\ChapterEight.exe.config
+C:\Users\MTCStudent\Desktop\C# Stuff\Tutorial8-1\ChapterEight\bin\Debug\ChapterEight.exe
+C:\Users\MTCStudent\Desktop\C# Stuff\Tutorial8-1\ChapterEight\bin\Debug\ChapterEight.pdb
+C:\Users\MTCStudent\Desktop\C# Stuff\Tutorial8-1\ChapterEight\obj\Debug\Chap8.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\C# Stuff\Tutorial8-1\ChapterEight\obj\Debug\ChapterEight.Form1.resources
+C:\Users\MTCStudent\Desktop\C# Stuff\Tutorial8-1\ChapterEight\obj\Debug\ChapterEight.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\C# Stuff\Tutorial8-1\ChapterEight\obj\Debug\ChapterEight.Tutorial8_2.resources
+C:\Users\MTCStudent\Desktop\C# Stuff\Tutorial8-1\ChapterEight\obj\Debug\Chap8.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\C# Stuff\Tutorial8-1\ChapterEight\obj\Debug\Chap8.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\C# Stuff\Tutorial8-1\ChapterEight\obj\Debug\ChapterEight.exe
+C:\Users\MTCStudent\Desktop\C# Stuff\Tutorial8-1\ChapterEight\obj\Debug\ChapterEight.pdb
